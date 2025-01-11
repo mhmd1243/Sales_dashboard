@@ -28,6 +28,7 @@ I am excited to share this interactive sales dashboard I developed, which provid
 - Trend analysis of monthly shipping data for better operational insights. 
 
 Features: 
+
 ✔ Fully interactive visualizations to explore year-wise trends. 
 
 ✔ User-friendly interface with actionable metrics for decision-making. 
