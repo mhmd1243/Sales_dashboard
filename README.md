@@ -29,7 +29,10 @@ I am excited to share this interactive sales dashboard I developed, which provid
 
 Features: 
 ✔ Fully interactive visualizations to explore year-wise trends. 
+
 ✔ User-friendly interface with actionable metrics for decision-making. 
+
 ✔ Insightful KPIs to track business performance at a glance. 
+
 
 Feel free to share your thoughts or ask questions, let’s discuss how data visualization can drive meaningful business decisions! 🌟
